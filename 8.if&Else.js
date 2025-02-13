@@ -13,9 +13,10 @@
 const notaDoAluno = 2
 const notaDeCorte = 5
 
-if(notaDoAluno > notaDeCorte){
+if (notaDoAluno > notaDeCorte) {
     // O QUE SERÁ EXECUTADO, SE O IF FOR VERDADEIRO
     console.log("Parabéns você passou de ano")
-} else {
-    console.log("Reprovado")
-}
+} 
+else{
+    console.log("Reprovado") 
+} 
