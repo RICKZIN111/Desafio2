@@ -1,0 +1,8 @@
+/* 
+    Boolean -> Boleano    
+
+    True
+    False
+
+*/
+
